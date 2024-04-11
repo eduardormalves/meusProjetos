@@ -2,4 +2,8 @@
     .trabalho{
         display: inline;
     }
+
+    button{
+        width: 49%;
+    }
 }
